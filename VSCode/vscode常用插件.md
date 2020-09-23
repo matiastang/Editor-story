@@ -4,10 +4,12 @@
  * @Author: matias tang
  * @Date: 2020-09-17 11:43:07
  * @LastEditors: matias tang
- * @LastEditTime: 2020-09-17 11:51:20
+ * @LastEditTime: 2020-09-23 11:19:35
 -->
 # vscode常用插件
 
+jQuery Snippets v1.0.0
+jQuery Code Snippets 0.0.1
 Better Align 1.1.6
 Better Comments 2.1.0
 Bracket Pair Colorizer 1.0.61
